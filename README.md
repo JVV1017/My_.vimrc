@@ -31,7 +31,7 @@ This repository contains my custom config for Vim such as essential vim settings
 	- $ vim
 
 7. Open the command line in vim and then type
-	- :PlugInstall +qall
+	- :PlugInstall
 
 - Installation Complete!!
 
