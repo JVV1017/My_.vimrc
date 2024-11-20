@@ -48,6 +48,7 @@ set hlsearch              " Highlighted Search Results
 set incsearch             " Incremental search (shows matches as you type)
 
 " Filetype and Syntax
+syntax on                 " Syntax Highlighting
 filetype plugin on        " Filetype Plugin
 filetype indent on        " Indentation for file types
 set autoindent            " Enable automatic indenting
